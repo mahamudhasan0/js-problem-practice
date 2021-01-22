@@ -1,8 +1,4 @@
 
-
-
-
-
 function kilometerToMeter(kilometer) {
 
     if (kilometer < 0) {
